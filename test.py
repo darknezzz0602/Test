@@ -16,3 +16,4 @@ while loop:
             print("You WON!")
         else:
             print("You lost!")
+            print("You sucks")
